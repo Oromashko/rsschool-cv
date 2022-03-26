@@ -11,29 +11,35 @@ __olga.romashko@gmail.com__
 #### Project Manager - Luxoft (Deutsche Bank Department)
   
 *March 2007-June 20012*
-Bla Bla Bla
+
+Duties, projects description etc.
 ****
 #### Project Manager - Luxoft (Boeing Department) 
 
 *December 2006 - March 2007*
-Bla Bla Bla
+
+Duties, projects description etc.
 ****
 #### System Analyst  - Luxoft (Boeing Department) 
 *August 2006-December 2006*
-Bla Bla Bla
+
+Duties, projects description etc.
 ****
 #### Project Manager- ICL-KME CS 
 
 *June 2003 - December 2003*
-Bla Bla Bla
+
+Duties, projects description etc.
 ****
 #### Team Lead- ICL-KME CS 
 
 *December 2003 - May 2003*
-Bla Bla Bla
+
+Duties, projects description etc.
 ****
 #### Programmer - ICL-KME CS 
 
 *September 2002 - December 2003*
-Bla Bla Bla
+
+Duties, projects description etc.
 ****
