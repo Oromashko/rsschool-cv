@@ -1,4 +1,122 @@
-.header {
-background-color: yellow;
-height 200px;
+body{
+   font-family : Arial, Helvetica, sans-serif;
+   font-size: 14;
+   margin-left: 1%;
+   height:100%;
+}
+.cv{
+   display: flex;
+   flex-direction: row;
+   height: 80%;
+   
+   
+}
+header{
+   height: 15%;
+  
+   flex-direction: row;
+}
+header .profile-photo{
+   display: flex;
+   width:10%;
+   height: auto;
+   margin-right: 5px;
+   border-radius: 4px;
+   background-color: #f0f0f0;
+}  
+header .profile-name{
+   display:    flex;
+   text-align: center;
+   ;
+   
+
+}
+header .profile-photo-name{
+   display: flex;
+   flex-direction: row;
+   margin-top: 1%;
+   margin-bottom: 1%;
+
+   border-radius: 1px;
+} 
+header .profile-name-position{
+   display: flex;
+   flex-direction: column;
+   width: 90%;
+   
+}
+
+header .profile-position{
+   display: flex;
+}
+header .profile{
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+}
+nav{
+   display: flex;
+   flex-direction: column;
+   width: 10%;
+   height:100%;
+   
+  
+}
+
+main{
+   display: flex;
+   width: 80%;
+   height :100%;
+   flex-direction: column;
+   
+}
+
+footer{
+   width: auto;
+   height: 20%;
+   display: flex;
+   flex-direction: row;
+   
+}
+footer .footer-inner{
+   margin: 2%;
+   height: 5%;
+}
+#logo-rsschool{
+   max-width: 10%;
+}
+
+.edu-name{
+   font-weight: 600;
+   font-size: large;
+   margin: 1%;
+
+}
+.cv-part{
+   font-weight: 800;
+   font-size: x-large;
+   margin: 1%;
+}
+.work-exp-name{
+   font-weight: 600;
+   font-size: large;
+   margin: 1%;
+}
+.menu{
+   display: flex;
+   flex-direction: column;
+   /*border-radius: 1px ;
+   border-style:  solid;
+   border-color: brown;*/
+   list-style-type: none;
+   width: 80%;
+   height: 100%;
+ /*  background-color: burlywood;
+*/
+
+}
+.menu a{
+   
+  
+   
 }
